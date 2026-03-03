@@ -1,0 +1,1 @@
+Uma calculadora baseada na utilização de loops for e em uma estrutura de switch case
